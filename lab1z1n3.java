@@ -1,0 +1,9 @@
+public class lab1z1n3 {
+    public static void main(String[] args) {
+        System.out.println(charToNum('3'));
+    }
+
+    public static int charToNum(char x) {
+        return x - '0';
+    }
+}
