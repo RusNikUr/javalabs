@@ -17,5 +17,8 @@ public class Main {
         System.out.println(petrov);
         System.out.println(kozlov);
         System.out.println(sidorov);
+
+        System.out.println();
+        }
     }
 }
